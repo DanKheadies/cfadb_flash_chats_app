@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1070372603812",
+    "project_id": "cfadb-flash-chats-app",
+    "storage_bucket": "cfadb-flash-chats-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070372603812:android:42dbf90809a124e8a36331",
+        "android_client_info": {
+          "package_name": "com.dtfun.flash_chats_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070372603812-sh2b2e62ngj65flaecatoe3d0g8pha6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwi2UkWcQkHvlKvPXkWXEt1G-9DtGVuf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070372603812-sh2b2e62ngj65flaecatoe3d0g8pha6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
